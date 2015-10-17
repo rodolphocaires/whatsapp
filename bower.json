@@ -1,10 +1,12 @@
 {
-  "name": "WhatsappIonic",
+  "name": "HelloIonic",
   "private": "true",
   "devDependencies": {
     "ionic": "driftyco/ionic-bower#1.1.0"
   },
   "dependencies": {
-    "moment": "~2.10.6"
+    "moment": "~2.10.6",
+    "meteor-client-side": "~0.2.3",
+    "angular-meteor": "~1.0.1"
   }
 }
